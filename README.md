@@ -1,1 +1,1 @@
-# PT2023_30221_Poponet_Tiberiu_Assignment_1
+# Polynomial Calculator with adding, subtraction, multiplication, integration and derivation.
